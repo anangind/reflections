@@ -9,3 +9,6 @@ we can git add our changes until we are sure that it is a right time to commit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Branched will be helpfull when you want to make new feature, while not distrubing the vorking version.
+
+How do the diagrams help you visualize the branch structure?
+now i can imagine what it looks like physically.
