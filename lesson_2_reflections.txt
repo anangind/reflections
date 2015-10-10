@@ -15,3 +15,6 @@ now i can imagine what it looks like physically.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 By merging two branched together, we including the new feature to our code, and the diagram give a clear image of how the merging process is done.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+code will soon be crumbled if git's automatically mergi yang branches.
