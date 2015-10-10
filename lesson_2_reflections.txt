@@ -12,3 +12,6 @@ Branched will be helpfull when you want to make new feature, while not distrubin
 
 How do the diagrams help you visualize the branch structure?
 now i can imagine what it looks like physically.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+By merging two branched together, we including the new feature to our code, and the diagram give a clear image of how the merging process is done.
