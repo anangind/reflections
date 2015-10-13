@@ -1,20 +1,20 @@
 What happens when you initialize a repository? Why do you need to do it?
-git creates a .git folder 
+	git creates a .git folder 
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
-staging area is the place between working directory adn the repository, staging area provide a local access before the file(s) ready to be published
+	staging area is the place between working directory adn the repository, staging area provide a local access before the file(s) ready to be published
 
 How can you use the staging area to make sure you have one commit per logical change?
-we can git add our changes until we are sure that it is a right time to commit
+	we can git add our changes until we are sure that it is a right time to commit
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
-Branched will be helpfull when you want to make new feature, while not distrubing the vorking version.
+	Branched will be helpfull when you want to make new feature, while not distrubing the vorking version.
 
 How do the diagrams help you visualize the branch structure?
-now i can imagine what it looks like physically.
+	now i can imagine what it looks like physically.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
-By merging two branched together, we including the new feature to our code, and the diagram give a clear image of how the merging process is done.
+	By merging two branched together, we including the new feature to our code, and the diagram give a clear image of how the merging process is done.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
-code will soon be crumbled if git's automatically mergi yang branches.
+	code will soon be crumbled if git's automatically mergi yang branches.
